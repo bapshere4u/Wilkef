@@ -1,2 +1,2 @@
 # Wilkef
-This repository to learn git
+This repository is to learn git
